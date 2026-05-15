@@ -6,6 +6,12 @@ O sistema realiza a leitura de sensores de temperatura, umidade do ar e umidade 
 
 ---
 
+# 📚 Projeto Acadêmico
+
+Projeto desenvolvido para estudos de automação, sistemas embarcados e monitoramento agrícola utilizando Arduino.
+
+---
+
 # 📌 Objetivos do Projeto
 
 - Levar inovação tecnológica para a Ilha de Cutijuba
@@ -124,10 +130,6 @@ https://youtu.be/XomKhprOvek?list=PLGUBdmn-Zx2PDUEz6iiPzg36uL6xhGuvb
 ### Luan Augusto  
 📧 luan22070212@aluno.cesupa.br
 
----
 
-# 📚 Projeto Acadêmico
-
-Projeto desenvolvido para estudos de automação, sistemas embarcados e monitoramento agrícola utilizando Arduino.
 
 
