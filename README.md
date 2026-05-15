@@ -83,7 +83,7 @@ O sistema realiza continuamente:
 
 # 📷 Foto do Projeto
 
-![FotoFinal2](https://github.com/lianeheidemann/ProjetoDeIrrigacaoMonitoramentoAutomatico_AMIP/assets/54177181/a5b93e3f-9898-478b-aae2-3255d4555473)
+<img width="2524" height="1440" alt="1000312918" src="https://github.com/user-attachments/assets/79a7904a-b725-4893-8924-1a20300b37dc" />
 
 ---
 
@@ -129,3 +129,5 @@ https://youtu.be/XomKhprOvek?list=PLGUBdmn-Zx2PDUEz6iiPzg36uL6xhGuvb
 # 📚 Projeto Acadêmico
 
 Projeto desenvolvido para estudos de automação, sistemas embarcados e monitoramento agrícola utilizando Arduino.
+
+
