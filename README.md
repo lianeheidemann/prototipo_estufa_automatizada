@@ -56,22 +56,9 @@ Os dados também podem ser visualizados pelo aplicativo:
 | 1 | Módulo Serial I2C para LCD |
 | 1 | Módulo Bluetooth HC-05 |
 | 2 | Interruptores On-Off Slide Switch |
-| 15 | Cabos Jumper |
-| 10 | Jumpers rígidos em formato “U” |
-| 1 | Fita isolante |
 | 1 | Mangueira de irrigação (0,5m) |
 | 1 | Fonte 5V para Arduino |
 | 1 | Fonte 12V para bomba d’água |
-
----
-
-## Tecnologias Utilizadas
-
-- Arduino C/C++
-- Arduino UNO
-- Comunicação Serial Bluetooth
-- Sensores ambientais
-- Display LCD I2C
 
 ---
 
