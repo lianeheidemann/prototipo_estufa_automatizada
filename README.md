@@ -38,8 +38,7 @@ Projeto desenvolvido para estudos de automação, sistemas embarcados e monitora
 
 Os dados também podem ser visualizados pelo aplicativo:
 
-**Arduino Bluetooth Controller**  
-🔗 https://play.google.com/store/apps/details?id=com.appsvalley.bluetooth.arduinocontroller
+🔗 [Arduino Bluetooth Controller](https://play.google.com/store/apps/details?id=com.appsvalley.bluetooth.arduinocontroller)
 
 ---
 
