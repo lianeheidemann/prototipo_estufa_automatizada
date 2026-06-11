@@ -98,8 +98,13 @@ O sistema realiza continuamente:
 **🇧🇷 Português**
 > https://github.com/lianeheidemann/ProjetoDeIrrigacaoMonitoramentoAutomatico_AMIP/assets/54177181/27c868d7-40d9-4d39-b8f9-d3db045b137a
 
-**🇺🇸 Inglês**
+<details close>
+
+  <summary>🇺🇸 English</summary>
+
 > https://github.com/lianeheidemann/ProjetoDeIrrigacaoMonitoramentoAutomatico_AMIP/assets/54177181/5dc2416f-5027-4611-a1f7-5dbb007b2bb0
+
+</details>
 
 ---
 
@@ -108,10 +113,12 @@ O sistema realiza continuamente:
 **🇧🇷 Português**
 [Assistir no YouTube](https://youtu.be/CeOX5DaF4m8)
 
+
 **🇺🇸 English**
 [Watch on YouTube](https://youtu.be/XomKhprOvek)
 
 ---
+
 ## Equipe do Projeto
 
 | Name | Contact |
