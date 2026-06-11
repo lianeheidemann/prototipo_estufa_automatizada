@@ -24,13 +24,13 @@ Projeto desenvolvido para estudos de automação, sistemas embarcados e monitora
 
 ## Funcionalidades
 
-✔️ Irrigação automatizada  
-✔️ Monitoramento da temperatura ambiente  
-✔️ Monitoramento da umidade do ar  
-✔️ Monitoramento da umidade do solo  
-✔️ Exibição dos dados em display LCD 16x2  
-✔️ Envio de dados via Bluetooth  
-✔️ Integração com o aplicativo Arduino Bluetooth Controller  
+- Irrigação automatizada  
+- Monitoramento da temperatura ambiente  
+- Monitoramento da umidade do ar  
+- Monitoramento da umidade do solo  
+- Exibição dos dados em display LCD 16x2  
+- Envio de dados via Bluetooth  
+- Integração com o aplicativo Arduino Bluetooth Controller  
 
 ---
 
@@ -38,7 +38,7 @@ Projeto desenvolvido para estudos de automação, sistemas embarcados e monitora
 
 Os dados também podem ser visualizados pelo aplicativo:
 
-📲 **Arduino Bluetooth Controller**  
+**Arduino Bluetooth Controller**  
 🔗 https://play.google.com/store/apps/details?id=com.appsvalley.bluetooth.arduinocontroller
 
 ---
@@ -89,17 +89,16 @@ O sistema realiza continuamente:
 
 ## Foto do Projeto
 
-<img width="2524" height="1440" alt="1000312918" src="https://github.com/user-attachments/assets/79a7904a-b725-4893-8924-1a20300b37dc" />
+<img src="https://github.com/user-attachments/assets/79a7904a-b725-4893-8924-1a20300b37dc" width="70%"/>
 
 ---
 
 ## Vídeos do Projeto
 
-**🇧🇷 Português**
+🇧🇷 Português  
 > https://github.com/lianeheidemann/ProjetoDeIrrigacaoMonitoramentoAutomatico_AMIP/assets/54177181/27c868d7-40d9-4d39-b8f9-d3db045b137a
 
 <details close>
-
   <summary>🇺🇸 English</summary>
 
 > https://github.com/lianeheidemann/ProjetoDeIrrigacaoMonitoramentoAutomatico_AMIP/assets/54177181/5dc2416f-5027-4611-a1f7-5dbb007b2bb0
@@ -108,26 +107,28 @@ O sistema realiza continuamente:
 
 ---
 
-## Vídeos no YouTube
+<details close>
+  <summary>Links do YouTube</summary>  
 
 **🇧🇷 Português**
 [Assistir no YouTube](https://youtu.be/CeOX5DaF4m8)
 
-
 **🇺🇸 English**
 [Watch on YouTube](https://youtu.be/XomKhprOvek)
+
+</details>
 
 ---
 
 ## Equipe do Projeto
 
-| Name | Contact |
+| Name | E-mail |
 |------|---------|
-| **Liane Ferreira Heidemann** | 📧 liane22070222@aluno.cesupa.br |
-| **Luis Imhotep** | 📧 luis22070056@aluno.cesupa.br |
-| **Fabio Gabriel Areas** | 📧 fabio21070209@aluno.cesupa.br |
-| **Fellipe Santos** | 📧 fellipe20070001@aluno.cesupa.br |
-| **Luan Augusto** | 📧 luan22070212@aluno.cesupa.br |
+| **Liane Ferreira Heidemann** | liane22070222@aluno.cesupa.br |
+| **Luis Imhotep** | luis22070056@aluno.cesupa.br |
+| **Fabio Gabriel Areas** | fabio21070209@aluno.cesupa.br |
+| **Fellipe Santos** | fellipe20070001@aluno.cesupa.br |
+| **Luan Augusto** | luan22070212@aluno.cesupa.br |
 
 
 
