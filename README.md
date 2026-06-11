@@ -1,18 +1,18 @@
 # 🌱 Projeto de Irrigação com Monitoramento Automatizado  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ### Grupo AMIP
 
-Projeto acadêmico desenvolvido com Arduino UNO para automação de irrigação e monitoramento ambiental em estufas agrícolas.  
-O sistema realiza a leitura de sensores de temperatura, umidade do ar e umidade do solo, exibindo os dados em um display LCD e transmitindo as informações via Bluetooth para dispositivos móveis.
+Protótipo de sistema de irrigação automatizada e monitoramento ambiental para estufas agrícolas desenvolvido com Arduino UNO. A solução integra sensores de temperatura, umidade do ar e umidade do solo, realizando a coleta de dados em tempo real, exibição em display LCD e transmissão via Bluetooth para dispositivos móveis.
 
 ---
 
-# 📚 Projeto Acadêmico
+# Projeto Acadêmico
 
 Projeto desenvolvido para estudos de automação, sistemas embarcados e monitoramento agrícola utilizando Arduino.
 
 ---
 
-# 📌 Objetivos do Projeto
+## Objetivos do Projeto
 
 - Levar inovação tecnológica para a Ilha de Cutijuba
 - Auxiliar na produção agrícola da região
@@ -22,19 +22,19 @@ Projeto desenvolvido para estudos de automação, sistemas embarcados e monitora
 
 ---
 
-# ⚙️ Funcionalidades
+## Funcionalidades
 
-✅ Irrigação automatizada  
-✅ Monitoramento da temperatura ambiente  
-✅ Monitoramento da umidade do ar  
-✅ Monitoramento da umidade do solo  
-✅ Exibição dos dados em display LCD 16x2  
-✅ Envio de dados via Bluetooth  
-✅ Integração com o aplicativo Arduino Bluetooth Controller  
+✔️ Irrigação automatizada  
+✔️ Monitoramento da temperatura ambiente  
+✔️ Monitoramento da umidade do ar  
+✔️ Monitoramento da umidade do solo  
+✔️ Exibição dos dados em display LCD 16x2  
+✔️ Envio de dados via Bluetooth  
+✔️ Integração com o aplicativo Arduino Bluetooth Controller  
 
 ---
 
-# 📱 Aplicativo Utilizado
+## Aplicativo Utilizado
 
 Os dados também podem ser visualizados pelo aplicativo:
 
@@ -43,7 +43,7 @@ Os dados também podem ser visualizados pelo aplicativo:
 
 ---
 
-# 🛠️ Componentes Utilizados
+## Componentes Utilizados
 
 | Quantidade | Componente |
 |---|---|
@@ -65,7 +65,7 @@ Os dados também podem ser visualizados pelo aplicativo:
 
 ---
 
-# 🧠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Arduino C/C++
 - Arduino UNO
@@ -75,7 +75,7 @@ Os dados também podem ser visualizados pelo aplicativo:
 
 ---
 
-# 🔌 Funcionamento do Sistema
+## Funcionamento do Sistema
 
 O sistema realiza continuamente:
 
@@ -87,49 +87,40 @@ O sistema realiza continuamente:
 
 ---
 
-# 📷 Foto do Projeto
+## Foto do Projeto
 
 <img width="2524" height="1440" alt="1000312918" src="https://github.com/user-attachments/assets/79a7904a-b725-4893-8924-1a20300b37dc" />
 
 ---
 
-# 🎥 Vídeos do Projeto
+## Vídeos do Projeto
 
-## 🇧🇷 Português
-https://github.com/lianeheidemann/ProjetoDeIrrigacaoMonitoramentoAutomatico_AMIP/assets/54177181/27c868d7-40d9-4d39-b8f9-d3db045b137a
+**🇧🇷 Português**
+> https://github.com/lianeheidemann/ProjetoDeIrrigacaoMonitoramentoAutomatico_AMIP/assets/54177181/27c868d7-40d9-4d39-b8f9-d3db045b137a
 
-## 🇺🇸 Inglês
-https://github.com/lianeheidemann/ProjetoDeIrrigacaoMonitoramentoAutomatico_AMIP/assets/54177181/5dc2416f-5027-4611-a1f7-5dbb007b2bb0
-
----
-
-# ▶️ Vídeos no YouTube
-
-## 🇧🇷 Português
-https://youtu.be/CeOX5DaF4m8?list=PLGUBdmn-Zx2PDUEz6iiPzg36uL6xhGuvb
-
-## 🇺🇸 Inglês
-https://youtu.be/XomKhprOvek?list=PLGUBdmn-Zx2PDUEz6iiPzg36uL6xhGuvb
+**🇺🇸 Inglês**
+> https://github.com/lianeheidemann/ProjetoDeIrrigacaoMonitoramentoAutomatico_AMIP/assets/54177181/5dc2416f-5027-4611-a1f7-5dbb007b2bb0
 
 ---
 
-# 👨‍💻 Integrantes do Projeto
+## Vídeos no YouTube
 
-### Liane Ferreira Heidemann  
-📧 liane22070222@aluno.cesupa.br
+**🇧🇷 Português**
+[Assistir no YouTube](https://youtu.be/CeOX5DaF4m8)
 
-### Luis Imhotep  
-📧 luis22070056@aluno.cesupa.br
+**🇺🇸 English**
+[Watch on YouTube](https://youtu.be/XomKhprOvek)
 
-### Fabio Gabriel Areas  
-📧 fabio21070209@aluno.cesupa.br
+---
+## Equipe do Projeto
 
-### Fellipe Santos  
-📧 fellipe20070001@aluno.cesupa.br
-
-### Luan Augusto  
-📧 luan22070212@aluno.cesupa.br
-
+| Name | Contact |
+|------|---------|
+| **Liane Ferreira Heidemann** | 📧 liane22070222@aluno.cesupa.br |
+| **Luis Imhotep** | 📧 luis22070056@aluno.cesupa.br |
+| **Fabio Gabriel Areas** | 📧 fabio21070209@aluno.cesupa.br |
+| **Fellipe Santos** | 📧 fellipe20070001@aluno.cesupa.br |
+| **Luan Augusto** | 📧 luan22070212@aluno.cesupa.br |
 
 
 
