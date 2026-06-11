@@ -45,20 +45,20 @@ Os dados também podem ser visualizados pelo aplicativo:
 
 ## Componentes Utilizados
 
-| Quantidade | Componente |
-|---|---|
-| 1 | Arduino UNO R3 |
-| 1 | Sensor DHT11 |
-| 1 | Cooler 5V 30x30mm |
-| 1 | Bomba d'água 12V DC30A-1230 |
-| 1 | Sensor de Umidade do Solo |
-| 1 | Display LCD 16x2 |
-| 1 | Módulo Serial I2C para LCD |
-| 1 | Módulo Bluetooth HC-05 |
-| 2 | Interruptores On-Off Slide Switch |
-| 1 | Mangueira de irrigação (0,5m) |
-| 1 | Fonte 5V para Arduino |
-| 1 | Fonte 12V para bomba d’água |
+| Componente |
+|---|
+| Arduino UNO R3 |
+| Sensor de temp e hum do ar DHT11 |
+| Cooler 5V 30x30mm |
+| Bomba d'água 12V DC30A-1230 |
+| Sensor de Umidade do Solo |
+| Display LCD 16x2 |
+| Módulo Serial I2C para LCD |
+| Módulo Bluetooth HC-05 |
+| Interruptores On-Off Slide Switch |
+| Mangueira de irrigação (0,5m) |
+| Fonte 5V para Arduino |
+| Fonte 12V para bomba d’água |
 
 ---
 
@@ -109,7 +109,7 @@ O sistema realiza continuamente:
 
 ## Equipe do Projeto
 
-| Name | E-mail |
+| Nome | E-mail |
 |------|---------|
 | **Liane Ferreira Heidemann** | liane22070222@aluno.cesupa.br |
 | **Luis Imhotep** | luis22070056@aluno.cesupa.br |
